@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">liveSocialAuth</string>
+
+    <string name="facebook_app_id">517723348988089</string>
+    <string name="fb_login_protocol_scheme">fb517723348988089</string>
+</resources>
